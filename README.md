@@ -71,11 +71,14 @@ plt.subplot(3, 1, 3)
 plt.plot(t, dsbsc_signal)  
 plt.tight_layout()  
 plt.show()  
+
 Output Graph
+
 ![ea9da74a-60c5-4400-a55d-0e9af77291d5](https://github.com/user-attachments/assets/1c7dc8b1-9917-463a-8102-959fa2cda398)
 
 
 Tablular Column
+
 ![2a98a077-b14c-46fc-b549-eec8ca0616e5](https://github.com/user-attachments/assets/2b12d016-a2c6-473e-9ebd-0296156dd097)
 
 
